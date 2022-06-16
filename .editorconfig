@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS7064: Ошибка при открытии файла значка C:\Users\Anna-PC\Desktop\c-sharp-tetris-master\..\..\..\..\Downloads\1383951811_3459.ico — Не удалось найти часть пути "C:\Downloads\1383951811_3459.ico".
+dotnet_diagnostic.CS7064.severity = none
